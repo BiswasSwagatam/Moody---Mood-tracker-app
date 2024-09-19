@@ -1,1 +1,1 @@
-Project deployed on - https://moody-themoodtracker.netlify.app/
+Project deployed on - http://moody-mood-tracker-app.vercel.app
